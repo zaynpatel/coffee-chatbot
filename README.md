@@ -18,6 +18,6 @@ input: I used the input command when I wanted the user to give me new informatio
 
 return: I used return when I wanted the code to give a response vs. running through its sub-routine of reviewing code + moving into following steps. 
 
-recursion: I learned that this is when a function calls itself. Line 59 is an example of this. The function is calling itself. 
+recursion: I learned that this is when a function calls itself. Line 11 is an example of this. The function is calling itself. 
 
 string concatenation: I used string concatenation to connect variables to strings, forming a sentence for the user. 
